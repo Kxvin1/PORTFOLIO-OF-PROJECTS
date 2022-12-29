@@ -3,7 +3,7 @@
 
 # _My Portfolio of Projects_
 
-#### _Hello! Please use this README to view the projects and repositories that I am most proud of._
+#### _Hello! Please use this README to view all of the projects and repositories in a single repo that I am most proud of._
 
 ## Contact Details
 
