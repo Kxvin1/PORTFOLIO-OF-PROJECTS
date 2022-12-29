@@ -53,7 +53,7 @@ ____
 ###  Luxurious Vacation Rentals App - "Vacay N Stays"
   <!--* **View Project:**  http://www.insertpage.com-->
 
-<img align="right" height="300px" width="500px" src="https://kxvin1.github.io/assets/img/vacay-n-stays-thumbnail.jpeg?raw=true" alt="html" style="vertical-align:top; margin:4px">
+<img align="right" height="250px" width="500px" src="https://kxvin1.github.io/assets/img/vacay-n-stays-thumbnail.jpeg?raw=true" alt="html" style="vertical-align:top; margin:5px">
 
   * **Repository:**  https://github.com/Kxvin1/vacay-n-stays
   * **Description:**  Vacay N' Stays is a luxurious vacation rentals single page app that serves REST APIs with full CRUD capabilities for hosting, bookings, and reviews. Users can search for locations and either book stays at these locations, create their own spot or leave reviews for locations.
@@ -64,7 +64,7 @@ ____
 ### Desktop Image Sharing App - "Wallpapr"
   <!--* **View Project:**  http://www.insertpage.com-->
 
-<img align="right" height="300px" width="500px" src="https://kxvin1.github.io/assets/img/wallpapr-3.jpeg" alt="html" style="vertical-align:top; margin:2em">
+<img align="right" height="250px" width="500px" src="https://kxvin1.github.io/assets/img/wallpapr-3.jpeg" alt="html" style="vertical-align:top; margin:5px">
 
   * **Repository:**  https://github.com/Kxvin1/wallpapr
   * **Description:**  Wallpapr is an image sharing single page app where users can share their favorite desktop wallpapers as well as view other users' uploads and profiles. Users can interact with other users by leaving comments on their profile.
@@ -74,7 +74,7 @@ ____
 ###  Google Search Engine built with Next.js - "Google Search Engine Clone"
   <!--* **View Project:**  http://www.insertpage.com-->
 
-<img align="right" height="300px" width="500px" src="https://kxvin1.github.io/assets/img/lZdBM9r.png?raw=true" alt="html" style="vertical-align:top; margin:2em">
+<img align="right" height="250px" width="500px" src="https://kxvin1.github.io/assets/img/lZdBM9r.png?raw=true" alt="html" style="vertical-align:top; margin:5px">
 
   * **Repository:**  https://github.com/Kxvin1/google-nextjs
   * **Description:** This is a Google Clone I built with Next.js/React.js to enable server side rendering. It utilizes Google's Programmable Search Engine API to provide 100% accuracy for both regular and image searches. [Click Here](https://github.com/Kxvin1/google-nextjs) to see the code.
@@ -83,7 +83,7 @@ ____
 ### Discord Bot - JARVIS
   <!--* **View Project:**  http://www.insertpage.com-->
 
-<img align="right" height="300px" width="500px" src="https://media.wired.co.uk/photos/606db957c99f3d4d31739e74/master/w_1600%2Cc_limit/ed86af6ae5769fb3c72f82c959f0d422.png" style="vertical-align:top; margin:2em" />
+<img align="right" height="250px" width="528px" src="https://media.wired.co.uk/photos/606db957c99f3d4d31739e74/master/w_1600%2Cc_limit/ed86af6ae5769fb3c72f82c959f0d422.png" style="vertical-align:top; margin:15px" />
 
   * **Repository:**  https://github.com/Kxvin1/jarvis
   * **Description:**  This is a bot I created, J.A.R.V.I.S. - which was inspired by Iron Man's AI assistant from the movies, I wanted to create a Discord bot that could execute tasks for me through short commands in my Discord server. I had a lot of fun building this, please enjoy!
@@ -93,7 +93,7 @@ ____
 ### Amazon Web Scraper - Simple Scraper Script
   <!--* **View Project:**  http://www.insertpage.com-->
 
-<img align="right" height="300px" width="500px" alt="GIF" src="https://i.imgur.com/rGM4yFl.jpeg" style="vertical-align:top; margin:2em" />
+<img align="right" height="250px" width="500px" alt="GIF" src="https://i.imgur.com/rGM4yFl.jpeg" style="vertical-align:top; margin:5px" />
 
   * **Repository:**  https://github.com/Kxvin1/amz-product-scraper
   * **Description:**  This project that I quickly wrote because I wanted to learn web scraping because of a future project I plan on creating that utilizes data from Amazon. This script fetches Amazon product details such as ASIN, Title, Price, Rating, and Reviews. Saves results to CSV file. User can search for specific product and name their csv file. There is also the option to only scrape the ASINs.
@@ -103,7 +103,7 @@ ____
 ### Access Log Parser - Script that parses a log file and outputs a CSV
   <!--* **View Project:**  http://www.insertpage.com-->
 
-<img align="right" height="300px" width="500px" alt="GIF" src="https://camo.githubusercontent.com/4afee0197b544b2e333f6a6ed5a55390bcb3286bab187f9c08be5d6972e91088/68747470733a2f2f692e696d6775722e636f6d2f73616575504e7a2e706e67" style="vertical-align:top; margin:2em" />
+<img align="right" height="250px" width="500px" alt="GIF" src="https://camo.githubusercontent.com/4afee0197b544b2e333f6a6ed5a55390bcb3286bab187f9c08be5d6972e91088/68747470733a2f2f692e696d6775722e636f6d2f73616575504e7a2e706e67" style="vertical-align:top; margin:25px" />
 
   * **Repository:**  https://github.com/Kxvin1/log_parser
   * **Description:**  This project that I created because I wanted to learn how to receive large amounts of data and format that data into a CSV file. This is a Python script that parses a log file and finds users' geographical location from the IP address, as well as user agent information, and other similar data and converts that data into a csv.
