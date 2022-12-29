@@ -16,9 +16,9 @@ ____
 
 ____
 
-# Skills
+## Skills
 
-### Languages
+#### Languages
 * Python
 * JavaScript
 * TypeScript
@@ -26,7 +26,7 @@ ____
 * HTML5
 * CSS3
 
-### Frameworks/Libraries
+#### Frameworks/Libraries
 * ORMs (Sequelize and SQLAlchemy)
 * React.js / Next.js / Express.js
 * Node.js / Flask
@@ -34,7 +34,7 @@ ____
 * Docker / Kubernetes
 * Testing (Mocha, Chai, Jest, Unit Testing, Pytest)
 
-### Misc
+#### Misc
 * Amazon Web Services (AWS)
 * Google Cloud Platform (GCP)
 * REST APIs
@@ -80,7 +80,7 @@ ____
   * **Description:** This is a Google Clone I built with Next.js/React.js to enable server side rendering. It utilizes Google's Programmable Search Engine API to provide 100% accuracy for both regular and image searches. [Click Here](https://github.com/Kxvin1/google-nextjs) to see the code.
   * **Tools:**  Next.js, React.js, Tailwind CSS, Google OAuth, Google Cloud Platform, Vercel
 
-### Discord Bot - JARVIS
+### Discord Bot - "JARVIS"
   <!--* **View Project:**  http://www.insertpage.com-->
 
 <img align="right" height="250px" width="528px" src="https://media.wired.co.uk/photos/606db957c99f3d4d31739e74/master/w_1600%2Cc_limit/ed86af6ae5769fb3c72f82c959f0d422.png" style="vertical-align:top; margin:15px" />
@@ -90,7 +90,7 @@ ____
   [Click Here](https://github.com/Kxvin1/jarvis/blob/main/README.md) to view my project readme that explains the app break down and features implemented.
   * **Tools:**  Python, Discord API, Google Cloud Platform
 
-### Amazon Web Scraper - Simple Scraper Script
+### Amazon Web Scraper - "Web Scraper Script"
   <!--* **View Project:**  http://www.insertpage.com-->
 
 <img align="right" height="250px" width="500px" alt="GIF" src="https://i.imgur.com/rGM4yFl.jpeg" style="vertical-align:top; margin:5px" />
@@ -100,7 +100,7 @@ ____
   [Click Here](https://github.com/Kxvin1/amz-product-scraper/blob/main/README.md) to view my project readme that explains how to use the script, how it works and to see a video of it in action!
   * **Tools:**  Python, Pandas, Amazon
 
-### Access Log Parser - Script that parses a log file and outputs a CSV
+### Script that parses a log file and outputs a CSV - "Access Log Parser"
   <!--* **View Project:**  http://www.insertpage.com-->
 
 <img align="right" height="250px" width="500px" alt="GIF" src="https://camo.githubusercontent.com/4afee0197b544b2e333f6a6ed5a55390bcb3286bab187f9c08be5d6972e91088/68747470733a2f2f692e696d6775722e636f6d2f73616575504e7a2e706e67" style="vertical-align:top; margin:25px" />
