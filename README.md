@@ -22,7 +22,7 @@ ____
 * Python
 * JavaScript
 * TypeScript
-* SQL (Postgres)
+* SQL (Postgres / MySQL)
 * HTML5
 * CSS3
 
